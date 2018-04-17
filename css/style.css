@@ -1,0 +1,45 @@
+body{
+    font-size: 20px;
+    background-color: rgb(14, 1, 39);
+    color: #34d834;
+}
+#console{
+    background-color: #000000;
+    margin: auto;
+    margin-top: 75px;
+    width: 750px;
+    height: 500px;
+    border: 5px solid #c0c0c0;
+    border-top-width: 20px;
+    border-radius: 5px;
+    padding: 10px;
+    position: relative;
+    overflow: auto;
+}
+#output{
+    width: 100%;
+}
+#output span{
+    line-height: 20px;
+}
+textarea {
+    width: calc(100% - 65px);
+    float: left;
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+    color: #34d834;
+    font-size: 20px;    
+}
+textarea:focus{
+    outline: none;
+}
+span {
+    display: inline-block;
+    float: left;
+}
+#typing{
+    color: #34d834;
+    margin: 0;
+}
