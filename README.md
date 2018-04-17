@@ -1,2 +1,2 @@
 # JSConsole
-Fake terminal make in JavaScript \n https://krystianjonca.github.io/JSConsole/index.html
+Fake terminal make in JavaScript Preview: https://krystianjonca.github.io/JSConsole/index.html
