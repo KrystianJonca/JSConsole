@@ -48,7 +48,7 @@ function about(){
     Output("<span>Hello! I'm a consol write in JavaScript, nice to meet you!</span><br/>");
 }
 function contact(){
-    Output("<span>CodePen: https://codepen.io/KrystianJonca/</span><br/><span>GitHub: https://github.com/KrystianJonca/</span><br/>");
+    Output("<span>GitHub: https://github.com/KrystianJonca/</span><br/>");
 }
 function main(){
     clearConsole();

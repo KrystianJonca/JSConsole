@@ -43,3 +43,25 @@ span {
     color: #34d834;
     margin: 0;
 }
+/*404 site*/
+.error{
+    /*font-family: "Oswald", sans-serif;*/
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.status{
+    margin-top: 50px;
+    margin-bottom: 0;
+    font-size: 250px;
+}
+.info{
+    font-size: 30px;
+}
+.link{
+    color: #34d834;
+    text-decoration: none;
+}
+.link:hover{
+    text-decoration: underline;
+}

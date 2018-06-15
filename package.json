@@ -1,0 +1,23 @@
+{
+  "name": "jsconsole",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrystianJonca/JSConsole.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrystianJonca/JSConsole/issues"
+  },
+  "homepage": "https://github.com/KrystianJonca/JSConsole#readme",
+  "dependencies": {
+    "ejs": "^2.5.9",
+    "express": "^4.16.3"
+  }
+}
