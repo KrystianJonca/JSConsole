@@ -4,9 +4,9 @@ Fake terminal made in JavaScript on Express app
 If you don't have git or node, you can install they here [Git](https://git-scm.com/downloads "Git") [Node.js](https://nodejs.org/en/download/ "Node.js") 
 
     # Clone this repository
-    git clone https://github.com/KrystianJonca/JSConsole
+    git clone https://github.com/KrystianJonca/js-terminal
     # Go into the repository
-    cd jsconsole
+    cd js-terminal
     # Install dependencies
     npm install
     # Run the app
