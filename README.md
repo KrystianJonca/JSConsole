@@ -12,5 +12,3 @@ If you don't have git or node, you can install they here [Git](https://git-scm.c
     # Run the app
     npm start
     
-## :paperclip: Express example app
-[Here](https://github.com/KrystianJonca/ExpressExampleApp "Here") you can also check my Express example app with comments lines
