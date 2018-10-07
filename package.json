@@ -4,6 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
+    "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,7 +18,7 @@
   },
   "homepage": "https://github.com/KrystianJonca/JSConsole#readme",
   "dependencies": {
-    "ejs": "^2.5.9",
+    "ejs": "^2.6.1",
     "express": "^4.16.3"
   }
 }
