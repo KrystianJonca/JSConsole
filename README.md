@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="Preview" src="https://raw.githubusercontent.com/KrystianJonca/electron-calculator/master/ss.PNG"/>
+<img alt="Preview" src="https://raw.githubusercontent.com/KrystianJonca/js-terminal/master/ss.PNG"/>
 </p>
 
 # :zap: JS Terminal
